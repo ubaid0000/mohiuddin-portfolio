@@ -1297,10 +1297,7 @@ form label {
 
 
 @media (max-width: 576px) {
-
-    body{
-        background-color: blue;
-    }
+    
     .web-wrapper{
         overflow-x: hidden;
     }
